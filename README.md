@@ -1,0 +1,2 @@
+# CompraPizza
+Projeto feito em sala de aula, simulando uma compra de pizza. Nele encontramos uma tela de login pré-definida com usuario e senha, ao se logar será feita uma consulta para saber se o usuario e senha informado são iguais os definidos, se positivo uma imagem do usuario e uma mensagem informando que o acesso foi liberado, caso contrario uma mensagem informando que o usuario e senha estão incorretos e retorna a tela de login. Se positivo o login, o usuario é direcionado ao Frame que ao preencher todos os dados um tela com informações da compra.
