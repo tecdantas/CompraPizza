@@ -430,7 +430,7 @@ public class PizzariaFrame extends JFrame { // Inicio da classe pizzaria frame.
                         + endC
                         + "<br>" + "Tel.: "
                         + telC
-                        + "<br>" + "___________  Pizza  _____________"
+                        + "<br>" + "___________  Cupon Fiscal  _____________"
                         + "<br>" + tamanhopizza
                         + "<br>" + sabordapizza + " = R$" + valorPizza
                         + "<br>" + "Borda: " + nomeBorda + " = R$" + valorBorda
@@ -458,47 +458,3 @@ public class PizzariaFrame extends JFrame { // Inicio da classe pizzaria frame.
     }// Fim da classe Escutador
 
 }// Fim da calsse PizzariaFrame
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-valorPizza
-valorBorda
-valorBebida
- */
- /*
-
-//            String sabordapizza = "";
-//String s=lbresultado.getText();
-//            String nomeA = nome_Cliente.getText().toUpperCase();//.concat("Sobre nome aqui");
-//            String nomeB = sobre_Cliente.getText().toUpperCase();//.concat("Sobre nome aqui");
-//            String nomeC = nomeA.concat(nomeB);
-//
-//            
-//            String endC = end_Cliente.getText();
-//            String telC = tel_Cliente.getText().trim(); //mostra o telefone sem espaços no começo ou no fim
-//            lbresultado = new JLabel();//label para resultado da operação
-//            lbresultado.setText("<html>"
-//                    + "Cliente: "
-//                    + nomeC
-//                    + "<br>" + "End.: "
-//                    + endC
-//                    + "<br>" + "Tel.: "
-//                    + telC
-//                    + "<br>" + "___________  Pizza  _____________"
-//                    + "<br>" + sabordapizza
-//                    + "<br>" + tamanhopizza
-//                    + "<br>" + bebida
-//                    + "<br>" + formapagamento
-//                    + "<br>" + "Total a pagar R$ : " + valorportamanho + "<html/>");
-//            add(lbresultado);
- */
